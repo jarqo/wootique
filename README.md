@@ -6,4 +6,4 @@ by Fajar Eko Nugroho
 * Theme : Wootique
 
 ## Preview
-![preview image](./preview/preview.png)
+![preview image](./preview/preview.PNG)
