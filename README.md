@@ -5,9 +5,9 @@ by Fajar Eko Nugroho
 * Plugin : Woocommerce
 * Theme : Wootique
 
-## Login Admin
+### Login Admin
 Username : admin  
 password : admin
 
-## Preview
+### Preview
 ![preview image](./preview/preview.PNG)
