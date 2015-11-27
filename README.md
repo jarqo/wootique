@@ -1,12 +1,12 @@
 # wootique
-Wordpress e-commerce portfolio
+Wordpress e-commerce portfolio  
 by Fajar Eko Nugroho 
 
 * Plugin : Woocommerce
 * Theme : Wootique
 
 ## Login Admin
-Username : admin
+Username : admin  
 password : admin
 
 ## Preview
